@@ -1,0 +1,32 @@
+@charset ;
+
+body {
+    background-color: rgb(187, 204, 248);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: blue;
+}
+
+h1#principal {
+    text-align: center;
+    background-color: blue;
+    color: white;
+}
+
+h2{
+    color: blue;
+}
+
+.topico{
+    background-color: rgb(181, 181, 235);
+    text-align: end;
+}
+.texto{
+    text-align: justify;
+}
+
+p {
+    color: rgb(5, 5, 51);
+}
